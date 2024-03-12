@@ -1,0 +1,66 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+
+/*changed the name of the file from 
+style.css to colors.css*/
+p {
+  color: gray;
+  font-style: italic;
+}
+h1 {
+  color: navy;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+}
+h2{
+  font-family: cursive;
+  font-size: 30px;
+}
+
+h3 {
+  color: navy;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: Helvetica, sans-serif;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
+/*added css lines 33-66 to update background color and to change*/
+#red{
+  border: 3px solid red;
+  width: 30%;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 1rem 1 rem;
+  vertical-align: middle;
+}
+#green{
+  border: 3px solid green;
+  width: 30%;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 1rem 1 rem;
+  vertical-align: middle;
+}
+#blue{
+  border: 3px solid blue;
+  width: 30%;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 1rem 1 rem;
+  vertical-align: middle;
+}
+#container{
+  border: 3px solid white;
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+body{
+  background-color: lightpink;
+}
